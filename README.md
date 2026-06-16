@@ -1,14 +1,62 @@
-# 💫 About Me:
-I'm currently working on Freelancing Projects<br>I'm looking to get hired in a good company<br>I'm a final-year student wanting to improve my skills and knowledge base
+# Geetanjali Vishwakarma
 
+> Pixels with purpose. Logic with soul.  
+> Building interfaces where design precision meets AI-powered thinking.
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/geetanjvishwak) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/c6BdcEZa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sumangeetanjaliraj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/geetanjali_Vishwakarma) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@GEET) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/geetanjvishwak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishwakarmageetanjali6@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+Frontend Developer · UI/UX Designer · AI/ML Enthusiast  
+B.Tech — Artificial Intelligence & Data Science, Jabalpur Engineering College (2026)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=thegeetanjali&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## what I do
+
+I build responsive, production-ready web apps and design systems — from wireframe to deployment.  
+Currently exploring the intersection of frontend engineering and applied AI (RAG pipelines, real-time CV dashboards).
+
+---
+
+## stack
+
+**Frontend** — React.js · TypeScript · Tailwind CSS · HTML5/CSS3 · Redux  
+**Backend / APIs** — Node.js · FastAPI · Flask · REST APIs · JWT Auth  
+**AI / ML** — LangChain · ChromaDB · YOLOv8 · OpenCV · PyTorch · Pandas  
+**Design** — Figma · Framer · Adobe Photoshop · Canva · Blender  
+**Infra** — Vercel · Firebase · Git · CI/CD · Google Cloud
+
+---
+
+## selected work
+
+| Project | What it is | Tech |
+|---|---|---|
+| [RAG Chat Assistant](https://github.com/thegeetanjali) | End-to-end RAG pipeline — PDF/URL/JSON → vector embeddings → LLaMA 3.1 Q&A | Python · LangChain · ChromaDB · Groq · Streamlit |
+| [Operix](https://github.com/thegeetanjali/operix-ai) | Modular SaaS dashboard with AI insights panel and RBAC | React · Tailwind · Context API |
+| [DearBloom](https://github.com/thegeetanjali/DearBloom) | Interactive digital bouquet platform with shareable links | React · CSS3 |
+| [NTPC Safety Dashboard](https://github.com/thegeetanjali) | Real-time industrial CV dashboard (NTPC internship) | YOLOv8 · React · Chart.js |
+
+---
+
+## experience
+
+**Freelance Frontend Dev & Designer** — 2024–present  
+5+ client projects · React SPAs · brand identities · end-to-end delivery
+
+**Frontend Dev & Designer — Shubhshanti Bats** — Feb–Jun 2025  
+Responsive React site · Figma → code pipeline · Agile cycles
+
+**Software Engineering Intern — NTPC Limited** — Jul–Aug 2024  
+Real-time AI safety dashboard · reduced manual inspection overhead by 30%
+
+---
+
+## certifications
+
+- HackerRank Software Engineer Intern Certification
+- HackerRank Frontend Developer (React) Certification  
+- National CyberShield Hackathon 2025 — Top 35 Teams (national level)
+
+---
+
+## reach me
+
+[LinkedIn](https://linkedin.com/in/geetanjali-vishwakarma-654451291) · [Behance](https://behance.net/geetanjvishwak) · [Email](mailto:vishwakarmageetanjali6@gmail.com) · [X](https://x.com/geetanjvishwak)
