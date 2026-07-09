@@ -35,15 +35,15 @@ RAG chatbot · answers from custom docs via vector search
 `langchain` `javascript`
 
 **▸ [lexiai-app](https://github.com/thegeetanjali/lexiai-app)**
-*(add a short description here)*
+AI-powered app for smart, chat-based interactions
 `javascript`
 
 **▸ [cosmic-coders24](https://github.com/thegeetanjali/cosmic-coders24)**
-*(add a short description here)*
+Community/team site for coder collective, built for 2024
 `javascript`
 
 **▸ [svs-website](https://github.com/thegeetanjali/svs-website)**
-*(add a short description here)*
+Responsive business/organization website
 `javascript`
 
 ---
