@@ -72,6 +72,3 @@ Jul–Aug24  NTPC Intern             → AI safety dashboard, -30% ops
 
 </div>
 ```
----
-## reach me
-[LinkedIn](https://linkedin.com/in/geetanjali-vishwakarma-654451291) · [Behance](https://behance.net/geetanjvishwak) · [Email](mailto:vishwakarmageetanjali6@gmail.com) · [X](https://x.com/geetanjvishwak
