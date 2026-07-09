@@ -1,3 +1,4 @@
+1783597239983_image.png
 # Geetanjali Vishwakarma
 > Pixels with purpose. Logic with soul.  
 > Building interfaces where design precision meets AI-powered thinking.
@@ -15,13 +16,47 @@ Currently exploring the intersection of frontend engineering and applied AI (RAG
 **Design** — Figma · Framer · Adobe Photoshop · Canva · Blender  
 **Infra** — Vercel · Firebase · Git · CI/CD · Google Cloud
 ---
-## selected work
-| Project | What it is | Tech |
-|---|---|---|
-| [rag-ai-chatbot](https://github.com/thegeetanjali/rag-ai-chatbot) | An AI-powered chatbot built using Retrieval-Augmented Generation (RAG) that answers user queries based on custom documents. It uses LangChain, vector embeddings, and semantic search to provide accurate answers | LangChain · Vector Embeddings · JavaScript |
-| [lexiai-app](https://github.com/thegeetanjali/lexiai-app) | AI-powered application project *(add a short description here)* | JavaScript · MIT License |
-| [cosmic-coders24](https://github.com/thegeetanjali/cosmic-coders24) | Web project *(add a short description here)* | JavaScript |
-| [svs-website](https://github.com/thegeetanjali/svs-website) | Website project *(add a short description here)* | JavaScript |
+## 💼 Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [rag-ai-chatbot](https://github.com/thegeetanjali/rag-ai-chatbot)
+An AI-powered chatbot built using Retrieval-Augmented Generation (RAG) that answers user queries based on custom documents, using vector embeddings and semantic search for accurate responses.
+
+`LangChain` `Vector Embeddings` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### [lexiai-app](https://github.com/thegeetanjali/lexiai-app)
+*(add a short description here)*
+
+`JavaScript` `MIT License`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [cosmic-coders24](https://github.com/thegeetanjali/cosmic-coders24)
+*(add a short description here)*
+
+`JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### [svs-website](https://github.com/thegeetanjali/svs-website)
+*(add a short description here)*
+
+`JavaScript`
+
+</td>
+</tr>
+</table>
+
 ---
 ## experience
 **Freelance Frontend Dev & Designer** — 2024–present  
@@ -37,4 +72,4 @@ Real-time AI safety dashboard · reduced manual inspection overhead by 30%
 - National CyberShield Hackathon 2025 — Top 35 Teams (national level)
 ---
 ## reach me
-[LinkedIn](https://linkedin.com/in/geetanjali-vishwakarma-654451291) · [Behance](https://behance.net/geetanjvishwak) · [Email](mailto:vishwakarmageetanjali6@gmail.com) · [X](https://x.com/geetanjvishwak)
+[LinkedIn](https://linkedin.com/in/geetanjali-vishwakarma-654451291) · [Behance](https://behance.net/geetanjvishwak) · [Email](mailto:vishwakarmageetanjali6@gmail.com) · [X](https://x.com/geetanjvishwak
