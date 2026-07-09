@@ -1,75 +1,77 @@
-1783597239983_image.png
-# Geetanjali Vishwakarma
-> Pixels with purpose. Logic with soul.  
-> Building interfaces where design precision meets AI-powered thinking.
-Frontend Developer · UI/UX Designer · AI/ML Enthusiast  
-B.Tech — Artificial Intelligence & Data Science, Jabalpur Engineering College (2026)
+```markdown
+<div align="center">
+
+### 🎮 PLAYER_01: GEETANJALI_VISHWAKARMA
+
+`Frontend Dev` · `UI/UX` · `AI/ML`
+
+</div>
+
+```
+> LOADING PROFILE...
+> CLASS: Frontend Developer / Designer
+> STUDYING: B.Tech AI & Data Science, JEC '26
+> QUOTE: "Pixels with purpose. Logic with soul."
+```
+
 ---
-## what I do
-I build responsive, production-ready web apps and design systems — from wireframe to deployment.  
-Currently exploring the intersection of frontend engineering and applied AI (RAG pipelines, real-time CV dashboards).
+
+### 🧠 SKILL TREE
+
+```
+🎨 Frontend   react · typescript · tailwind · redux
+⚙️  Backend    node · fastapi · flask · jwt
+🤖 AI/ML      langchain · chromadb · yolov8 · pytorch
+🖌️  Design     figma · framer · blender
+☁️  Infra      vercel · firebase · git · gcp
+```
+
 ---
-## stack
-**Frontend** — React.js · TypeScript · Tailwind CSS · HTML5/CSS3 · Redux  
-**Backend / APIs** — Node.js · FastAPI · Flask · REST APIs · JWT Auth  
-**AI / ML** — LangChain · ChromaDB · YOLOv8 · OpenCV · PyTorch · Pandas  
-**Design** — Figma · Framer · Adobe Photoshop · Canva · Blender  
-**Infra** — Vercel · Firebase · Git · CI/CD · Google Cloud
----
-## 💼 Selected Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🕹️ QUEST LOG (projects)
 
-### [rag-ai-chatbot](https://github.com/thegeetanjali/rag-ai-chatbot)
-An AI-powered chatbot built using Retrieval-Augmented Generation (RAG) that answers user queries based on custom documents, using vector embeddings and semantic search for accurate responses.
+**▸ [rag-ai-chatbot](https://github.com/thegeetanjali/rag-ai-chatbot)** `🏆 featured`
+RAG chatbot · answers from custom docs via vector search
+`langchain` `javascript`
 
-`LangChain` `Vector Embeddings` `JavaScript`
-
-</td>
-<td width="50%" valign="top">
-
-### [lexiai-app](https://github.com/thegeetanjali/lexiai-app)
+**▸ [lexiai-app](https://github.com/thegeetanjali/lexiai-app)**
 *(add a short description here)*
+`javascript`
 
-`JavaScript` `MIT License`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [cosmic-coders24](https://github.com/thegeetanjali/cosmic-coders24)
+**▸ [cosmic-coders24](https://github.com/thegeetanjali/cosmic-coders24)**
 *(add a short description here)*
+`javascript`
 
-`JavaScript`
-
-</td>
-<td width="50%" valign="top">
-
-### [svs-website](https://github.com/thegeetanjali/svs-website)
+**▸ [svs-website](https://github.com/thegeetanjali/svs-website)**
 *(add a short description here)*
-
-`JavaScript`
-
-</td>
-</tr>
-</table>
+`javascript`
 
 ---
-## experience
-**Freelance Frontend Dev & Designer** — 2024–present  
-5+ client projects · React SPAs · brand identities · end-to-end delivery
-**Frontend Dev & Designer — Shubhshanti Bats** — Feb–Jun 2025  
-Responsive React site · Figma → code pipeline · Agile cycles
-**Software Engineering Intern — NTPC Limited** — Jul–Aug 2024  
-Real-time AI safety dashboard · reduced manual inspection overhead by 30%
+
+### 📜 XP LOG (experience)
+
+```
+2024–now   Freelance Frontend Dev  → 5+ client projects
+Feb–Jun25  Shubhshanti Bats        → React site, Figma→code
+Jul–Aug24  NTPC Intern             → AI safety dashboard, -30% ops
+```
+
 ---
-## certifications
-- HackerRank Software Engineer Intern Certification
-- HackerRank Frontend Developer (React) Certification  
-- National CyberShield Hackathon 2025 — Top 35 Teams (national level)
+
+### 🏅 ACHIEVEMENTS
+
+`HackerRank SE Intern` `HackerRank React Dev` `CyberShield Top 35`
+
+---
+
+<div align="center">
+
+🔗 [linkedin](https://linkedin.com/in/geetanjali-vishwakarma-654451291) · [behance](https://behance.net/geetanjvishwak) · [x](https://x.com/geetanjvishwak) · [email](mailto:vishwakarmageetanjali6@gmail.com)
+
+`> press [F] to connect`
+
+</div>
+```
 ---
 ## reach me
 [LinkedIn](https://linkedin.com/in/geetanjali-vishwakarma-654451291) · [Behance](https://behance.net/geetanjvishwak) · [Email](mailto:vishwakarmageetanjali6@gmail.com) · [X](https://x.com/geetanjvishwak
